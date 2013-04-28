@@ -8,5 +8,6 @@ Every vehicle has a stock tire size, otherwise known as OEM (Original Equipment 
 
 For example, if your stock tire size is 205/55R16, and you attempt to replace that with 245/55R16 (a very bad idea), your speedometer will read 70 when you are actually traveling at 75 MPH.  In addition to that, the overall diameter of your replacement tires will be significantly lower than the stock size, which could cause brake failure and other dangers.
 
+Here is a <a href="http://www.sizemytires.com/calculators/speedometer">demo of the speedometer calculator</a>.
 
-
+<h2>Metric / Inches Tire Size Calculator</h2>
