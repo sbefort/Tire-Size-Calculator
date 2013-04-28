@@ -20,3 +20,12 @@ Anyway, in a typical tire coe like 245/55R16, there are three sets of numbers th
   <li>55 - The aspect ration is 55% of 245 (metric)</li>
   <li>16 - The rim size is 16 inches in diameter (imperial)</li>
 </ul>
+
+This tire size is considered to be a metric size even though it designates the rim to be 16 inches.
+
+There is another tire size type that is all in inches.  This type is more commonly found on trucks and SUVs.  For example, a typical imperial tire size is 38x14.0-16.  The three numbers in this tire code mean the following:
+38x14.0-16
+<ul>
+  <li></li>
+  <li></li>
+</ul>
