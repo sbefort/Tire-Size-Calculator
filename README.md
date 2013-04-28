@@ -23,9 +23,10 @@ Anyway, in a typical tire coe like 245/55R16, there are three sets of numbers th
 
 This tire size is considered to be a metric size even though it designates the rim to be 16 inches.
 
-There is another tire size type that is all in inches.  This type is more commonly found on trucks and SUVs.  For example, a typical imperial tire size is 38x14.0-16.  The three numbers in this tire code mean the following:
-31x10.50R15
+There is another tire size type that is all in inches.  This type is more commonly found on trucks and SUVs.  For example, one of the stock tire sizes for a 2003 Chevy Blazer LS ZR2 is 31x10.50R15.  The three numbers in this tire code mean the following:
+
 <ul>
-  <li></li>
-  <li></li>
+  <li>31 - The diameter is 31 inches (imperial)</li>
+  <li>10.50 - The tire width is 10.50 inches (imperial)</li>
+  <li>15 - The rim size is 15 inches (imperial)</li>
 </ul>
