@@ -11,12 +11,12 @@ For example, if your stock tire size is 205/55R16, and you attempt to replace th
 Here is a <a href="http://www.sizemytires.com/calculators/speedometer">demo of the speedometer calculator</a>.
 
 <h2>Metric / Inches Tire Size Calculator</h2>
-Most passenger vehicles use a mixture of inches and millimeters in the tire code.  This is odd for obvious reasons.  Why would you use two separate measurement systems in the tire code?
+Most passenger vehicles use a mixture of inches and millimeters in the tire code.  This is odd for obvious reasons.  Why would you use two separate measurement systems in the tire code?  I don't know the answer to that question or the history behind the madness.  Perhaps there is a good reason.
 
-In a typical tire coe like 245/55R16, there are three sets of numbers that have different meanings:
+Anyway, in a typical tire coe like 245/55R16, there are three sets of numbers that have different meanings:
 
 <ul>
-  <li>245 - The tire width is 245 millimeters</li>
-  <li>55 - The aspect ration is 55% of 245</li>
-  <li>16 - The rim size is 16 inches in diameter</li>
+  <li>245 - The tire width is 245 millimeters (metric)</li>
+  <li>55 - The aspect ration is 55% of 245 (metric)</li>
+  <li>16 - The rim size is 16 inches in diameter (imperial)</li>
 </ul>
