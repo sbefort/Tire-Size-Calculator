@@ -30,3 +30,5 @@ There is another tire size type that is all in inches.  This type is more common
   <li>10.50 - The tire width is 10.50 inches (imperial)</li>
   <li>15 - The rim size is 15 inches (imperial)</li>
 </ul>
+
+Sometimes drivers want to know if they can replace imperial tires like those for the Chevy with a metric tire size (or vice versa).  The <a href="http://www.sizemytires.com/calculators/metric-inches">metric - inches calculator</a> can help drivers find a compatible tire size.
